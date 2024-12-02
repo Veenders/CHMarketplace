@@ -1,0 +1,13 @@
+.cartButton {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 0;
+  background: var(--buttonBackground);
+  color: var(--background);
+  &:disabled {
+    background: var(--greyText);
+  }
+}

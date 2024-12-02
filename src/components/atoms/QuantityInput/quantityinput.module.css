@@ -1,0 +1,19 @@
+.quantityInput {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  border: 1px solid #D0D0D0;
+  & button {
+    border: none;
+    background: none;
+    padding: 10px 16px;
+  }
+  & input {
+    border: none;
+    background: none;
+    text-align: center;
+    padding: 10px;
+  }
+}

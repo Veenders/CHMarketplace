@@ -1,0 +1,22 @@
+.productList {
+  display: grid;
+  grid-template-columns: 1fr;
+  padding-bottom: 95px;
+  @media (min-width: 768px) {
+    grid-template-columns: 1fr;
+    padding-bottom: 0px;
+  }
+  @media (min-width: 768px) {
+    grid-template-columns: 1fr;
+    grid-gap: 40px 16px;
+  }
+  @media (min-width: 992px) {
+    grid-template-columns: 1fr 1fr;
+  }
+  @media (min-width: 1200px) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  @media (min-width: 1400px) {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}

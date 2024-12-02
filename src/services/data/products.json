@@ -1,0 +1,499 @@
+{
+    "products": [
+        {
+            "product_id": "73647e2d-4a38-4162-af06-14f21e5f0864",
+            "has_stock": true,
+            "readable_id": "OHXQO4",
+            "name": "Multivitamin-Mineral CELA Tabletten",
+            "product_slug": "multivitamin-mineral-cela-tabletten",
+            "presentation_unit": "Stück · Tabletten",
+            "quantity_presentation_unit": 100,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/73647e2d-4a38-4162-af06-14f21e5f0864-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "066d1a98-2767-457c-9203-54c3e16edcce",
+                "name": "Burgerstein",
+                "slug": "burgerstein",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/K7TKF4_de_DE.png",
+                "readable_id": "K7TKF4"
+            },
+            "best_seller": {
+                "amount": 26.5,
+                "original_price": 27.1,
+                "base_price": 0.26,
+                "currency": "EUR",
+                "seller_id": "782489d1-ea2d-4644-8f02-e06e815b0b13",
+                "seller_name": "Kanela",
+                "stock": 30,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "e98cb794-40fc-4066-a89b-d7cb75cd174b",
+            "has_stock": true,
+            "readable_id": "JD3B13",
+            "name": "Vitamin D3 2000 IE Kapseln",
+            "product_slug": "vitamin-d3-2000-ie-kapseln",
+            "presentation_unit": "Stück · Tabletten",
+            "quantity_presentation_unit": 60,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/e98cb794-40fc-4066-a89b-d7cb75cd174b-de-2.jpg",
+                    "position": 1
+                }
+            ],
+            "brand": {
+                "brand_id": "066d1a98-2767-457c-9203-54c3e16edcce",
+                "name": "Burgerstein",
+                "slug": "burgerstein",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/K7TKF4_de_DE.png",
+                "readable_id": "K7TKF4"
+            },
+            "best_seller": {
+                "amount": 14.85,
+                "original_price": 16.85,
+                "base_price": 0.25,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 1129,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "43a927e0-b37a-41f5-a0c2-ce658ea22ca7",
+            "has_stock": true,
+            "readable_id": "G42NXF8P",
+            "name": "Zinkvital 14 mg Tabletten",
+            "product_slug": "zinkvital-14-mg-tabletten",
+            "presentation_unit": "Stück · Tabletten",
+            "quantity_presentation_unit": 100,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/43a927e0-b37a-41f5-a0c2-ce658ea22ca7-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "066d1a98-2767-457c-9203-54c3e16edcce",
+                "name": "Burgerstein",
+                "slug": "burgerstein",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/K7TKF4_de_DE.png",
+                "readable_id": "K7TKF4"
+            },
+            "best_seller": {
+                "amount": 16.55,
+                "original_price": 16.65,
+                "base_price": 0.16,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 1300,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "9cc58056-e6aa-416d-99ab-b65e891ebb92",
+            "has_stock": true,
+            "readable_id": "622KWT",
+            "name": "MagnesiumVital Tabletten",
+            "product_slug": "magnesiumvital-tabletten",
+            "presentation_unit": "Stück · Tabletten",
+            "quantity_presentation_unit": 120,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/9cc58056-e6aa-416d-99ab-b65e891ebb92-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "066d1a98-2767-457c-9203-54c3e16edcce",
+                "name": "Burgerstein",
+                "slug": "burgerstein",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/K7TKF4_de_DE.png",
+                "readable_id": "K7TKF4"
+            },
+            "best_seller": {
+                "amount": 27.3,
+                "original_price": 29.2,
+                "base_price": 0.23,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 385,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "b6446ae1-1238-4a90-9c11-1ee995210681",
+            "has_stock": true,
+            "readable_id": "07MCJGN3",
+            "name": "L-Lysin Tabletten",
+            "product_slug": "l-lysin-tabletten",
+            "presentation_unit": "Stück · Tabletten",
+            "quantity_presentation_unit": 90,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/b6446ae1-1238-4a90-9c11-1ee995210681-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "066d1a98-2767-457c-9203-54c3e16edcce",
+                "name": "Burgerstein",
+                "slug": "burgerstein",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/K7TKF4_de_DE.png",
+                "readable_id": "K7TKF4"
+            },
+            "best_seller": {
+                "amount": 18.75,
+                "original_price": 19.5,
+                "base_price": 0.21,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 475,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "480a13ab-82d8-48b7-9cff-2c67e543f84f",
+            "has_stock": true,
+            "readable_id": "OJ5STN",
+            "name": "B-Komplex Tabletten",
+            "product_slug": "b-komplex-tabletten",
+            "presentation_unit": "Stück · Tabletten",
+            "quantity_presentation_unit": 100,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/480a13ab-82d8-48b7-9cff-2c67e543f84f-de-2.jpg",
+                    "position": 1
+                }
+            ],
+            "brand": {
+                "brand_id": "066d1a98-2767-457c-9203-54c3e16edcce",
+                "name": "Burgerstein",
+                "slug": "burgerstein",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/K7TKF4_de_DE.png",
+                "readable_id": "K7TKF4"
+            },
+            "best_seller": {
+                "amount": 20.45,
+                "original_price": 20.55,
+                "base_price": 0.21,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 550,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "ce023d4b-3756-4a2c-9029-2ff9f8f1e37d",
+            "has_stock": true,
+            "readable_id": "LV17MNW8",
+            "name": "Collagen Pulver",
+            "product_slug": "collagen-pulver",
+            "presentation_unit": null,
+            "quantity_presentation_unit": null,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/ce023d4b-3756-4a2c-9029-2ff9f8f1e37d-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "066d1a98-2767-457c-9203-54c3e16edcce",
+                "name": "Burgerstein",
+                "slug": "burgerstein",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/K7TKF4_de_DE.png",
+                "readable_id": "K7TKF4"
+            },
+            "best_seller": {
+                "amount": 16.45,
+                "original_price": 16.65,
+                "base_price": null,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 285,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "0daeb31b-5c31-4cfe-a397-4814a52c8d74",
+            "has_stock": true,
+            "readable_id": "9VE1CA",
+            "name": "Apricoderm Stick",
+            "product_slug": "apricoderm-stick",
+            "presentation_unit": null,
+            "quantity_presentation_unit": null,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/0daeb31b-5c31-4cfe-a397-4814a52c8d74-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "10a94d19-f228-4487-94b0-c7164b71be4a",
+                "name": "Phytopharma",
+                "slug": "phytopharma",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/FWJPF8_de_DE.png",
+                "readable_id": "FWJPF8"
+            },
+            "best_seller": {
+                "amount": 14.9,
+                "original_price": 15.1,
+                "base_price": null,
+                "currency": "EUR",
+                "seller_id": "782489d1-ea2d-4644-8f02-e06e815b0b13",
+                "seller_name": "Kanela",
+                "stock": 66,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "720f1476-d57c-4523-bb3f-659928045ab8",
+            "has_stock": true,
+            "readable_id": "2H0T9PT2",
+            "name": "Bio Tee Adventskalender",
+            "product_slug": "bio-tee-adventskalender",
+            "presentation_unit": "Stück · Filmabletten",
+            "quantity_presentation_unit": 24,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/720f1476-d57c-4523-bb3f-659928045ab8-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "fd763d1e-fd0d-4754-897c-92f341f53006",
+                "name": "Pukka",
+                "slug": "pukka",
+                "image": null,
+                "readable_id": "4WYD2V"
+            },
+            "best_seller": {
+                "amount": 21.5,
+                "original_price": 21.6,
+                "base_price": 0.89,
+                "currency": "EUR",
+                "seller_id": "782489d1-ea2d-4644-8f02-e06e815b0b13",
+                "seller_name": "Kanela",
+                "stock": 62,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "1f452ba5-77a1-47b2-856e-c4d5b188894d",
+            "has_stock": true,
+            "readable_id": "02OS2Q",
+            "name": "Schwarzer Knoblauch Kapseln",
+            "product_slug": "schwarzer-knoblauch-kapseln",
+            "presentation_unit": "Stück · Pulver",
+            "quantity_presentation_unit": 120,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/1f452ba5-77a1-47b2-856e-c4d5b188894d-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "0eca1ddd-acbe-4692-820c-f2cdff9e67c4",
+                "name": "Alpinamed",
+                "slug": "alpinamed",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/YCMPQT_de_DE.png",
+                "readable_id": "YCMPQT"
+            },
+            "best_seller": {
+                "amount": 26.8,
+                "original_price": 26.9,
+                "base_price": 0.22,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 212,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "11e456c2-fcf7-456a-89aa-3d2c51092ad7",
+            "has_stock": true,
+            "readable_id": "1241XJZ9",
+            "name": "Zink-C Toffees",
+            "product_slug": "zink-c-toffees",
+            "presentation_unit": null,
+            "quantity_presentation_unit": null,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/11e456c2-fcf7-456a-89aa-3d2c51092ad7-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "066d1a98-2767-457c-9203-54c3e16edcce",
+                "name": "Burgerstein",
+                "slug": "burgerstein",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/K7TKF4_de_DE.png",
+                "readable_id": "K7TKF4"
+            },
+            "best_seller": {
+                "amount": 9.35,
+                "original_price": null,
+                "base_price": null,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 1122,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "c5e62574-6b9d-4b53-a961-d1efe38decfd",
+            "has_stock": true,
+            "readable_id": "XMY0188G",
+            "name": "13 8+5 Vitamine und Mineralstoffe - Tabs 40 x 7.5 g",
+            "product_slug": "13-8-5-vitamine-und-mineralstoffe-tabs-40-x-7-5-g",
+            "presentation_unit": "Stück · Tabletten",
+            "quantity_presentation_unit": 1,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/c5e62574-6b9d-4b53-a961-d1efe38decfd-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "368d05e6-a637-4314-9ba6-8d2cd62c0bc0",
+                "name": "Jemalt",
+                "slug": "jemalt",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/HCBMPO_de_DE.png",
+                "readable_id": "HCBMPO"
+            },
+            "best_seller": {
+                "amount": 13.55,
+                "original_price": 13.60,
+                "base_price": 13.55,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 121,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "954d912d-5810-4033-aa1c-4b1a2e9ce4a8",
+            "has_stock": true,
+            "readable_id": "LI8XGN",
+            "name": "Goldhirse-Öl-Kapseln",
+            "product_slug": "goldhirse-oel-kapseln",
+            "presentation_unit": "Stück · Filmabletten",
+            "quantity_presentation_unit": 150,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/954d912d-5810-4033-aa1c-4b1a2e9ce4a8-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "9e357efc-867a-4aa3-b23f-0a30e2093641",
+                "name": "HIRSANA",
+                "slug": "hirsana",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/PXWLHO_de_DE.png",
+                "readable_id": "PXWLHO"
+            },
+            "best_seller": {
+                "amount": 74.75,
+                "original_price": 80.25,
+                "base_price": 0.5,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 207,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "57bc41e9-56d7-4fb5-a1ba-004f732b573d",
+            "has_stock": true,
+            "readable_id": "F7VEKW",
+            "name": "Omega-3 DHA Kapseln",
+            "product_slug": "omega-3-dha-kapseln",
+            "presentation_unit": "Stück · Tabletten",
+            "quantity_presentation_unit": 100,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/57bc41e9-56d7-4fb5-a1ba-004f732b573d-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "066d1a98-2767-457c-9203-54c3e16edcce",
+                "name": "Burgerstein",
+                "slug": "burgerstein",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/K7TKF4_de_DE.png",
+                "readable_id": "K7TKF4"
+            },
+            "best_seller": {
+                "amount": 35.05,
+                "original_price": 35.1,
+                "base_price": 0.35,
+                "currency": "EUR",
+                "seller_id": "062aa21f-41e4-4a40-8076-5f9029082816",
+                "seller_name": "Zur Rose Online-Apotheke",
+                "stock": 297,
+                "has_stock": true
+            }
+        },
+        {
+            "product_id": "f36a6258-3ca8-47f9-857e-262b9c77de26",
+            "has_stock": true,
+            "readable_id": "GUATBA",
+            "name": "Coenzym Q10 100 mg Kapseln",
+            "product_slug": "coenzym-q10-100-mg-kapseln",
+            "presentation_unit": "Stück · Filmabletten",
+            "quantity_presentation_unit": 30,
+            "medias": [
+                {
+                    "title": "Image",
+                    "resource": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/product_images/f36a6258-3ca8-47f9-857e-262b9c77de26-de-1.jpg",
+                    "position": 0
+                }
+            ],
+            "brand": {
+                "brand_id": "066d1a98-2767-457c-9203-54c3e16edcce",
+                "name": "Burgerstein",
+                "slug": "burgerstein",
+                "image": "https://statics.zurrose-shop.ch/static/zurrose-shop/prod/brand_images/K7TKF4_de_DE.png",
+                "readable_id": "K7TKF4"
+            },
+            "best_seller": {
+                "amount": 32.8,
+                "original_price": null,
+                "base_price": 1.1,
+                "currency": "EUR",
+                "seller_id": "2a76cb7d-302b-4984-bfa6-4b74a284aaa1",
+                "seller_name": "drogi Drogerie",
+                "stock": 98,
+                "has_stock": true
+            }
+        }
+    ]
+}

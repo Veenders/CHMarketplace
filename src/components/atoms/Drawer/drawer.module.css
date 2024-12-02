@@ -1,0 +1,109 @@
+.drawer {
+  display: block;
+  z-index: 5;
+  width: 100%;
+  height: 100%;
+  @media(min-width: 768px) {
+    display: none;
+  }
+}
+
+.toggleDrawer {
+  position: fixed;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 93px;
+  background-color: var(--background);
+  transition-timing-function: ease-in;
+  transition: 500ms;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.toggleDrawerOpened {
+  height: calc(100% - 93px);
+  transition-timing-function: ease-out;
+  transition: 500ms;
+}
+
+.puller {
+  width: 60px;
+  height: 6px;
+  background-color: #D0D0D0;
+  border-radius: 3px;
+  margin-top: 16px;
+  z-index: 7;
+}
+.header {
+  padding: 8px 16px 16px 16px;
+  width: 100%;
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+  align-items: center;
+  & p {
+    font-weight: 600px;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  & button {
+    padding: 10px 16px;
+    border-radius: 8px;
+    border: none;
+    color: var(--background);
+    background-color: var(--buttonBackground);
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+  }
+}
+
+.drawerBackground {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #3C3C3B75;
+}
+
+.drawerContainer {
+  display: flex;
+  flex-direction: column; 
+  justify-content: stretch;
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+.openedHeader{
+  display: flex;
+  flex-direction: row;
+  padding: 16px 12px 0 12px;
+  justify-content:space-between;
+  align-items: center;
+  & button {
+    background: none;
+    border: none;
+    margin-right: 23px;
+  }
+  & h3 {
+    margin: 0 10px;
+    max-width: 208px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+  }
+  & p {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+}

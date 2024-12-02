@@ -1,0 +1,69 @@
+.shoppingCard {
+  padding: 16px 0;
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+}
+
+.shoppingCardImage {
+  min-width: 110px;
+  width: 110px;
+  height: 110px;
+  margin-right: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  & img {
+    height: 100%;
+  }
+}
+
+.shoppingCardContainer {
+  flex-grow: 1;
+}
+
+.shoppingCardMainContent{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-grow: 1;
+  & button {
+    border: none;
+    background: none;
+  }
+}
+
+.shoppingCardText {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
+  & h4{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 4px;
+  }
+  & p {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 20px;
+    color: var(--greyText);
+    &:last-child {
+      font-weight: 400;
+    }
+  }
+}
+
+.shoppingCardPrice {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  & p {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  
+}
