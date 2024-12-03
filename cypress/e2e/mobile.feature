@@ -1,4 +1,4 @@
-Feature: Desktop CH Marketplace
+Feature: Mobile CH Marketplace
 
   Scenario: visiting the mainpage
     Given I visit CH Marketplace
